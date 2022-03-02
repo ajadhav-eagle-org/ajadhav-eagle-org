@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Akash Jadhav
 - 👀 I’m interested in PLM, Windchill, Industry 4.0, IOT and technology. :)
 - 🌱 I’m currently learning PLM Windchill
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m willing to learn new Modules PLM Windchill
 - 📫 How to reach me ... AJadhav@eagle.org || 91-9325484821
 
 <!---
